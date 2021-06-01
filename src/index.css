@@ -37,7 +37,7 @@ code {
 .inputfield__label {
   font-size: 20px;
   position: absolute;
-  top: 14px;
+  top: 14.5px;
   left: 18px;
   color: transparent;
   user-select: none;
@@ -45,6 +45,8 @@ code {
 }
 .inputfield__label span {
   color: black;
+  position: absolute;
+  z-index: 2;
 }
 
 .inputfield_input {

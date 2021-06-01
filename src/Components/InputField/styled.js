@@ -63,6 +63,7 @@ const StyledTextField = withStyles({
       '& .MuiOutlinedInput-root': {
         fontSize: 20,
         background: '#fff',
+        zIndex: '-1',
         '& fieldset': {
           borderColor: 'rgb(16, 16, 16)',
           border: '2px solid',

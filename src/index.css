@@ -19,7 +19,7 @@ code {
 
 .container {
   margin: 100px auto;
-  width: 700px;
+  width: 900px;
   display: flex;
   align-items: center;
   gap: 30px;
@@ -34,15 +34,16 @@ code {
   position: relative;
 }
 
-.inputdield__label {
+.inputfield__label {
+  font-size: 20px;
   position: absolute;
-  top: 10px;
+  top: 14px;
   left: 18px;
   color: transparent;
   user-select: none;
   z-index: -1;
 }
-.inputdield__label span {
+.inputfield__label span {
   color: black;
 }
 
@@ -57,11 +58,14 @@ code {
 }
 
 .PaymentCard {
-  width: 300px;
-  height: 150px;
+  width: 400px;
+  height: 200px;
   padding: 10px;
   border-radius: 7px;
   box-shadow: 0 0 15px -5px #000;
+}
+.PaymentCard__label {
+  font-size: 24px;
 }
 
 .loader {
@@ -83,10 +87,10 @@ code {
 }
 
 .PaymentCard__info_labels {
-  font-size: 10px;
+  font-size: 14px;
 }
 .PaymentCard__info_values {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .PaymentCard__btn {

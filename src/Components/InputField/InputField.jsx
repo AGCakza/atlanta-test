@@ -31,7 +31,7 @@ const InputField = ({
             onChange={onChange}
             autoFocus={true}
           />
-          <label className='inputdield__label' for={name}>
+          <label className='inputfield__label' for={name}>
             {value}
             <span>
               {name === 'term' ?

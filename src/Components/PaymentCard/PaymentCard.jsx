@@ -28,7 +28,7 @@ const PaymentCard = ({
     }
     return(
         <div className='PaymentCard'>
-            <p>Расчет Оплаты</p>
+            <p className='PaymentCard__label'>Расчет Оплаты</p>
             <Input monthPayment={monthPayment} handleChange={handleChange} />
             <div className='PaymentCard__info'>
                 <div>

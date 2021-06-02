@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/atlanta-test/static/css/main.78165c86.chunk.css",
-    "main.js": "/atlanta-test/static/js/main.9b4f3f09.chunk.js",
-    "main.js.map": "/atlanta-test/static/js/main.9b4f3f09.chunk.js.map",
+    "main.js": "/atlanta-test/static/js/main.201e1f97.chunk.js",
+    "main.js.map": "/atlanta-test/static/js/main.201e1f97.chunk.js.map",
     "runtime-main.js": "/atlanta-test/static/js/runtime-main.da4f3096.js",
     "runtime-main.js.map": "/atlanta-test/static/js/runtime-main.da4f3096.js.map",
     "static/js/2.d07a9761.chunk.js": "/atlanta-test/static/js/2.d07a9761.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.da4f3096.js",
     "static/js/2.d07a9761.chunk.js",
     "static/css/main.78165c86.chunk.css",
-    "static/js/main.9b4f3f09.chunk.js"
+    "static/js/main.201e1f97.chunk.js"
   ]
 }

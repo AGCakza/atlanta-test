@@ -7,6 +7,7 @@ const StyledSlider = withStyles({
       color: 'rgb(16, 16, 16)',
       height: 3,
       padding: '15px 0',
+      zIndex: '2'
     },
     thumb: {
       height: 15,
@@ -62,8 +63,7 @@ const StyledTextField = withStyles({
       },
       '& .MuiOutlinedInput-root': {
         fontSize: 20,
-        background: '#fff',
-        zIndex: '-1',
+        zIndex: 1,
         '& fieldset': {
           borderColor: 'rgb(16, 16, 16)',
           border: '2px solid',

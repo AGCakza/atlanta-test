@@ -6,7 +6,7 @@ const App = () => {
     bet: 0.088,
     betMonth: 0.0073,
     creditSumm: 2000,
-    monthPayment: 276,
+    monthPayment: 175,
     term: 1,
     firstPayment: 1000,
     objectPrice: 3000,

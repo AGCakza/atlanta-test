@@ -4,8 +4,8 @@ import { InputField, PaymentCard } from './Components/Components'
 const App = () => {
   const [data, setData] = useState({
     bet: 0.088,
-    creditSumm: 3000,
-    monthPayment: 415,
+    creditSumm: 2000,
+    monthPayment: 276,
     term: 1,
     firstPayment: 1000,
     objectPrice: 3000,
